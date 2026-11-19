@@ -3,6 +3,7 @@
 Each release has a section `## <version>`; its text becomes the GitHub release notes and the
 Marketplace's "what's new".
 
-## 0.1.0
+## 1.0.0
 
-- First release.
+- First release: Proxmox VE hosts, VMs and containers in the inventory; hosts, the cluster's quorum
+  and tagged VMs on the health wall.
